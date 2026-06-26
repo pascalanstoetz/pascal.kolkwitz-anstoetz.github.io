@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 order: 2
 permalink: /publication/2025-zrex-dprex
-excerpt: 'Das Datenportal für Rassismus- und Rechtsextremismusforschung (DP-R|EX) stellt sich vor.'
+excerpt: 'Das Datenportal für Rassismus- und Rechtsextremismusforschung (DP-R&#124;EX) stellt sich vor.'
 date: 2025-10-30
 venue: 'ZRex – Zeitschrift für Rechtsextremismusforschung'
 paperurl: 'https://budrich-journals.de/index.php/zrex/article/view/46363/39820'
